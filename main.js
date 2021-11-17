@@ -10,6 +10,8 @@ const value = document.querySelector('.value');
 
 btn.addEventListener('click',getColor);
 
+getColor();
+
 function getColor() {
     color = "#";
     for(let i = 0; i < 6; i++){

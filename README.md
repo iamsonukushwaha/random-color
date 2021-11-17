@@ -4,5 +4,5 @@
 
 click on the button to change color
 
-### Click below to view live demo
-[Click Here](https://tender-visvesvaraya-477e42.netlify.app/)
+[Click to view live demo
+](https://tender-visvesvaraya-477e42.netlify.app/)

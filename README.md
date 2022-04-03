@@ -6,4 +6,4 @@ click on the button to change color
 
 [Live demo](https://tender-visvesvaraya-477e42.netlify.app/)
 
-or **[https://www.sonu.live/random-color/](https://www.sonu.live/random-color/)**
+or **[https://sonukushwaha.me/random-color/](https://sonukushwaha.me/random-color/)**
